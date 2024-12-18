@@ -1,0 +1,7 @@
+pandas
+openpyxl
+scikit-learn
+numpy
+tensorflow
+pickle
+sentence-transformers

@@ -1,0 +1,11 @@
+{
+    "model_name": "Random Classifier",
+    "dataset_name": "validation",
+    "accuracy": 0.34496644295302015,
+    "precision_pos": 0.2587131367292225,
+    "recall_pos": 0.3496376811594203,
+    "f1_pos": 0.29738058551617874,
+    "precision_neg": 0.453125,
+    "recall_neg": 0.3547400611620795,
+    "f1_neg": 0.39794168096054894
+}
